@@ -54,5 +54,4 @@ private:
   MathTread* exampleObject_8 = new MathTread;
   MathTread* exampleObject_9 = new MathTread;
   MathTread* exampleObject_10 = new MathTread;
-  //int count_1;
 };
